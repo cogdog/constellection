@@ -11,6 +11,8 @@ by Alan Levine http://cog.dog/ or http://cogdogblog.com/
 
 ----- 
 
+![](screenshot.png "Constellection Demo site")
+
 Child theme of [Rebalance](https://wordpress.com/themes/rebalance/)
 
 Uses [d3js](https://d3js.org)
